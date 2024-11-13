@@ -1,4 +1,4 @@
-# Ex--6-AWS-Account-setup-and-S3-creation
+# Ex-5-AWS-Account-setup-and-S3-creation
 
 ## Introduction
 
