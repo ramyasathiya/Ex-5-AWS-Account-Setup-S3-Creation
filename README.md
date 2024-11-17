@@ -1,4 +1,7 @@
-# Ex-5-AWS-Account-setup-and-S3-creation
+# Ex-05-AWS-Account-setup-and-S3-creation
+
+**Name** : Yuvaraj B<br>
+**Reg No** : 212222040186
 
 ## Introduction
 
