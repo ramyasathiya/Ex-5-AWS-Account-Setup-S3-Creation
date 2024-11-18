@@ -1,7 +1,7 @@
 # Ex-05-AWS-Account-setup-and-S3-creation
 
-**Name** : Yuvaraj B<br>
-**Reg No** : 212222040186
+**Name** : RAMYA S<br>
+**Reg No** : 212222040130
 
 ## Introduction
 
